@@ -1,0 +1,11 @@
+[package]
+name = "try_take"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+description = "A generic function for trying to take elements out of an iterator."
+authors = ["Frostie314159"]
+repository = "https://github.com/Frostie314159/try_take"
+readme = "README.md"
+
+[dependencies]
